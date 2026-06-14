@@ -1,6 +1,8 @@
 # Analyzing Toronto Airbnb Dataset
 # Introduction
-An exploratory data analysis on the November 2025 Toronto Airbnb dataset. Developed a predictive machine learning model to identify and evaluate the most significant features driving listing performance. 
+An exploratory data analysis on the  Toronto Airbnb (November 2025), Ottawa (September 2025) and Montreal (September 2025) datasets. 
+
+Developed a predictive machine learning model to identify and evaluate the most significant features driving listing performance. 
 
 The main purpose is to identify listing features that will maximize revenue for Airbnb hosts. The secondary purpose is to maximize value for money for guests.
 
