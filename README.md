@@ -11,7 +11,7 @@ The main purpose is to identify listing features that will maximize revenue for 
 2. Usage
 3. Licenses
 
-## 1.Initialization
+## 1. Initialization
 The code was developed and tested using Python 3.12.13 (64-bit) via [Google Collab](http://colab.research.google.com/), but should be compatible with most Python 3.x versions.
 
 All required libraries are listed and installed at the beginning of each notebook.
@@ -24,14 +24,14 @@ Some notebooks generate HTML reports (via ydata-profiling and sweetviz).
 
 Google Colab features such as file download are utilized.
 
-## 2.Usage
+## 2. Usage
 i. Open the notebooks in Google Colab or Jupyter Notebook
 
 ii. Run the cells sequentially
 
 iii. Dependencies will install automatically (Colab users)
 
-## 3.Licensing
+## 3. Licensing
 
 This project uses the following open-source Python libraries:
 
